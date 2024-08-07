@@ -1,27 +1,20 @@
-
 ![](https://github.com/Ayush200704/Ayush200704/blob/main/in_a_cozy__dimly_lit_room__a_coder_sits_intently_o_by_aero200704_dhxgm6b.jpg)
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush200704&label=Profile%20views&color=0e75b6&style=flat" alt="ayush200704" /> </p>
 
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>🔭 I’m currently working on <strong>KalKiNI website</strong></li>
-        <li>🌱 I’m currently learning <strong>NextJs, DevOps and more...</strong></li>
-        <li>👯 I’m looking to collaborate on <strong>Websites</strong></li>
-        <li>💬 Ask me about <strong>MERN stack and Authentication like JWT, PassportJs, OAuth</strong></li>
-        <li>📫 How to reach me <strong>ayush.tiwari.200704@gmail.com</strong></li>
-        <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1HQ1iZhXgbCmnyFpI6DQJEE3CuQFE0XEy/view?usp=sharing">Link</a></li>
-      </ul>
-    </td>
-    <td style="width: 60px;">
-      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="40" height="40" alt="GIF">
-    </td>
-  </tr>
-</table>
+- 🔭 I’m currently working on **KalKiNI website**
+
+- 🌱 I’m currently learning **NextJs, DevOps and more...**
+
+- 👯 I’m looking to collaborate on **Websites**
+
+- 💬 Ask me about **MERN stack and Authentication like JWT, PassportJs, OAuth**
+
+- 📫 How to reach me **ayush.tiwari.200704@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HQ1iZhXgbCmnyFpI6DQJEE3CuQFE0XEy/view?usp=sharing](https://drive.google.com/file/d/1HQ1iZhXgbCmnyFpI6DQJEE3CuQFE0XEy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
