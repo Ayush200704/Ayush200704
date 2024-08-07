@@ -1,5 +1,5 @@
 
-![](https://github.com/Ayush200704/Ayush200704/blob/main/in_a_cozy__dimly_lit_room__a_coder_sits_intently_o_by_aero200704_dhxgm60.jpg)
+![](https://github.com/Ayush200704/Ayush200704/blob/main/in_a_cozy__dimly_lit_room__a_coder_sits_intently_o_by_aero200704_dhxgm6b.jpg)
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
