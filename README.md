@@ -2,21 +2,27 @@
 ![](https://github.com/Ayush200704/Ayush200704/blob/main/in_a_cozy__dimly_lit_room__a_coder_sits_intently_o_by_aero200704_dhxgm6b.jpg)
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="40" height="40" align="left" style="margin-right: 10px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush200704&label=Profile%20views&color=0e75b6&style=flat" alt="ayush200704" /> </p>
 
-- 🔭 I’m currently working on **KalKiNI website**
+<div style={display:flex;}>
+  <div>
+    - 🔭 I’m currently working on **KalKiNI website**
 
-- 🌱 I’m currently learning **NextJs, DevOps and more...**
+    - 🌱 I’m currently learning **NextJs, DevOps and more...**
 
-- 👯 I’m looking to collaborate on **Websites**
+    - 👯 I’m looking to collaborate on **Websites**
 
-- 💬 Ask me about **MERN stack and Authentication like JWT, PassportJs, OAuth**
+    - 💬 Ask me about **MERN stack and Authentication like JWT, PassportJs, OAuth**
 
-- 📫 How to reach me **ayush.tiwari.200704@gmail.com**
+    - 📫 How to reach me **ayush.tiwari.200704@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HQ1iZhXgbCmnyFpI6DQJEE3CuQFE0XEy/view?usp=sharing](https://drive.google.com/file/d/1HQ1iZhXgbCmnyFpI6DQJEE3CuQFE0XEy/view?usp=sharing)
+    - 📄 Know about my experiences [https://drive.google.com/file/d/1HQ1iZhXgbCmnyFpI6DQJEE3CuQFE0XEy/view?usp=sharing](https://drive.google.com/file/d/1HQ1iZhXgbCmnyFpI6DQJEE3CuQFE0XEy/view?usp=sharing)
+  </div>
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="40" height="40" align="left" style="margin-right: 10px;">
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
