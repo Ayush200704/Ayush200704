@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **NextJs, DevOps and more...**
 
 - 👯 I’m looking to collaborate on **Websites**
+- <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="40" height="40" align="left" style="margin-right: 10px;">
 
 - 💬 Ask me about **MERN stack and Authentication like JWT, PassportJs, OAuth**
 
