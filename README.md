@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on **Websites**
 
-- 📝 I regularly write articles on [https://dev.to/ayush200704](https://dev.to/ayush200704)
-
 - 💬 Ask me about **MERN stack and Authentication like JWT, PassportJs, OAuth**
+  
+- 📝 I regularly write articles on [https://dev.to/ayush200704](https://dev.to/ayush200704)
 
 - 📫 How to reach me **ayush.tiwari.200704@gmail.com**
 
