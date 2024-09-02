@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN stack and Authentication like JWT, PassportJs, OAuth**
   
-- 📝 I regularly write articles on [https://dev.to/ayush200704](https://dev.to/ayush200704)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/ayush200704)
 
 - 📫 How to reach me **ayush.tiwari.200704@gmail.com**
 
