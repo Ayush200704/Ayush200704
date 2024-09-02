@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ayush.tiwari.200704@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HQ1iZhXgbCmnyFpI6DQJEE3CuQFE0XEy/view?usp=sharing](https://drive.google.com/file/d/1HQ1iZhXgbCmnyFpI6DQJEE3CuQFE0XEy/view?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1WigipD-4KAGbwJdcpQXDWDXSDN1_6Axl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
