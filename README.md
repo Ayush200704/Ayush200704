@@ -1,7 +1,6 @@
 ![](https://github.com/Ayush200704/Ayush200704/blob/main/in_a_cozy__dimly_lit_room__a_coder_sits_intently_o_by_aero200704_dhxgm6b.jpg)
 <h1 align="center">Hi I'm Ayush</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="right" alt="Coding" width="300" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - I’m currently working on Spring Boot and microservices architecture for scalable backend development.<br>
 - Learning and deepening my expertise in DevOps, and cloud deployment with AWS and Docker.<br>
